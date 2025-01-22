@@ -1,0 +1,17 @@
+Folder PATH listing
+Volume serial number is E015-40DB
+C:.
++---client
+¦   +---node_modules
+¦   +---public
+¦   +---src
+¦       +---assets
+¦       +---components
+¦       +---pages
+¦       +---styles
+¦           +---components
+¦           +---pages
++---server
+    +---controllers
+    +---middlewares
+    +---models

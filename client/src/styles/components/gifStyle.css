@@ -1,0 +1,13 @@
+@media (max-width: 900px) {
+    .talk-gif {
+      display: none;
+    }
+    .signup-container {
+        height: 100vh; /* Ensure it takes full height */
+        margin-top: 0; /* Remove any margin */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+  }
